@@ -2,6 +2,7 @@
 アイテムを頭に被ることができる
 
 
+
 ## 使い方(Usage)
 インベントリーでアイテムを頭のスロットへ入れる．
 
@@ -22,11 +23,13 @@ config.ymlを再読み込みする．
 
 Reload config.yml.
 
+
 ## 権限(Permission)
 ```
 itemwear.commands
 itemwear.set
 ```
+
 
 ## その他の設定(Other Settings)
 config.ymlのworldの中にリストとしてワールド名を入れることで被らせることを出来なくするワールドのブラックリストを作れます．

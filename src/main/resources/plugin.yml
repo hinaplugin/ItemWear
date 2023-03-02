@@ -1,0 +1,17 @@
+name: ItemWear
+version: '${project.version}'
+main: com.hinaplugin.itemwear.itemwear.ItemWear
+api-version: 1.19
+authors: [ hina2113 ]
+description: アイテムを頭に被らせる
+
+commands:
+  iw:
+    permission: itemwear.commands
+    permission-message: You do not have permission perform this commands!
+
+permissions:
+  itemwear.commands:
+    default: op
+  itemwear.set:
+    default: true

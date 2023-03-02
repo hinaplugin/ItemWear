@@ -7,6 +7,7 @@
 
 
 ＜English＞
+
 Put an item in the head slot in your inventory.
 
 
@@ -18,6 +19,7 @@ config.ymlを再読み込みする．
 
 
 ＜English＞
+
 Reload config.yml.
 
 ## 権限(Permission)
@@ -31,4 +33,5 @@ config.ymlのworldの中にリストとしてワールド名を入れること�
 
 
 ＜English＞
+
 You can create a blacklist of worlds that cannot be covered by putting the world name as a list in the world of config.yml.
